@@ -1,0 +1,253 @@
+
+
+/* ID's Sections */
+
+#title {
+  background-color: #fbfad3;
+}
+
+#features {
+  background-color: #fff;
+  padding: 7% 7%;
+  position: relative;
+}
+
+#gallery-1{
+  background-color: #c6e377;
+  text-align: center;
+  color: #fff;
+}
+
+#tutorials{
+  background-color: #fff;
+  text-align: center;
+  padding: 5% 7%;
+  color: #36622b;
+}
+
+#supplies {
+  background-color: #c6e377;
+  text-align: center;
+  color: #fff;
+}
+
+#pricing {
+  background-color: #fff;
+  text-align: center;
+  padding: 5% 7%;
+  color: #36622b;
+}
+
+#about {
+  background-color: #c6e377;
+  text-align: center;
+  padding: 5% 7%;
+  color: #fff;
+}
+/* Headings */
+
+#feedback {
+  background-color: #fff;
+  text-align: center;
+  color: #36622b;
+}
+
+#footer {
+  background-color: #c6e377;
+  text-align: center;
+  padding: 5% 7%;
+  color: #000;
+}
+
+h1 {
+  color: #36622b;
+}
+
+h2 {
+  font-family: "Montserrat Black", sans-serif;
+  padding-bottom: 20px;
+}
+
+
+h3 {
+  color: #36622b;
+  font-size: 1.5rem;
+  font-family: "Montserrat Medium", sans-serif;
+  padding: 5% 5%;
+}
+
+h4 {
+  font-size: 1.5rem;
+  padding-bottom: 5%;
+}
+
+h5 {
+  font-size: 2rem;
+}
+
+p {
+  color: #36622b;
+}
+
+/* Navigation Section */
+
+.navbar {
+  padding: 3% 2%;
+}
+
+.navbar-brand {
+  color: #36622b;
+  font-family: "Montserrat Black", sans-serif;
+  font-size: 2rem;
+  padding-left: 5%;
+}
+
+.nav-link {
+  color: #36622b;
+  padding-right: 5%;
+}
+
+.cake-1 {
+  width: 600px;
+  height: 600px;
+  margin: 5% 15%;
+}
+
+.carousel-item {
+  padding: 7% 7%;
+}
+
+.cake {
+  width: 250px;
+  height: 250px;
+  margin: 0 25px 10%;
+}
+
+.caption-title {
+  margin: 0 25px 5%;
+}
+
+.carousel-caption {
+  padding: 2% auto;
+  color: #36622b;
+}
+
+.tools {
+  width: 400px;
+  height: 400px;
+  margin: 0 25px 5%;
+}
+
+.tools-title {
+  margin: 0 25px 3%;
+}
+
+.arrows {
+  width: 10%;
+  color: #000;
+}
+
+.card {
+  border-color: #36622b;
+}
+
+.card-header {
+  background-color: #fbfad3;
+  border-color: #36622b;
+}
+
+.card-body {
+  font-family: "Montserrat Medium", sans-serif;
+}
+.card-deck {
+  margin: 5% 7%;
+}
+
+.card-text {
+  height: 1.5;
+  font-family: "Montserrat Medium", sans-serif;
+}
+
+.main-heading {
+  margin: 15% 50px 15px;
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+.btn {
+  width: 200px;
+  height: 50px;
+  margin: 5% 2%;
+  display: inline;
+
+}
+
+.buttons {
+  display: flex;
+  margin: 150px 20% 5%;
+}
+
+.btn {
+  background-color: #36622b;
+  border-radius: 10px;
+  border-color: #000;
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+.tutorial {
+  background-color: #36622b;
+  border-radius: 10px;
+  width: 35%;
+  margin-top: 7%;
+  border-color: #000;
+  color: #fff;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.tutorial:hover {
+  background-color: #fff;
+  color: #000;
+  border-color: #000;
+  cursor: pointer;
+}
+
+
+
+.btn:hover {
+  background-color: #fff;
+  color: #000;
+  border-color: #000
+}
+
+.feature-box {
+  text-align: center;
+  padding: 3%;
+}
+.icon {
+  color: #c6e377;
+  margin-bottom: 1.5rem;
+}
+
+.icon:hover {
+  color: #36622b;
+}
+
+
+.photo {
+  width: 150px;
+  height: 250px;
+  padding-bottom: 3%;
+}
+
+.feedback-text {
+  padding: 5% 5%;
+}
+
+.social-icon {
+margin: 20px 10px;
+color: #000;
+}
